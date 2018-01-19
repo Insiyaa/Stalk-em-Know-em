@@ -1,0 +1,3007 @@
+{
+    "created_at": "Fri Jan 19 15:10:16 +0000 2018",
+    "id": 954370429136748544,
+    "id_str": "954370429136748544",
+    "text": "\u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u092c\u0949\u0930\u094d\u0921\u0930 \u0938\u0947 \u0917\u094d\u0930\u093e\u0909\u0902\u0921 \u0930\u093f\u092a\u094b\u0930\u094d\u091f.\n#Khabardar , 8:55 PM, @aajtak \u092a\u0930 @sardanarohit \u0915\u0947 \u0938\u093e\u0925 https://t.co/AZ9XCXPU8b",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Khabardar",
+                "indices": [
+                    36,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aajtak",
+                "name": "\u0906\u091c \u0924\u0915",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    58,
+                    65
+                ]
+            },
+            {
+                "screen_name": "sardanarohit",
+                "name": "Rohit Sardana",
+                "id": 111944435,
+                "id_str": "111944435",
+                "indices": [
+                    69,
+                    82
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 954370261779759104,
+                "id_str": "954370261779759104",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6aslWUQAAIvXx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6aslWUQAAIvXx.jpg",
+                "url": "https://t.co/AZ9XCXPU8b",
+                "display_url": "pic.twitter.com/AZ9XCXPU8b",
+                "expanded_url": "https://twitter.com/aajtak/status/954370429136748544/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954370261779759104,
+                "id_str": "954370261779759104",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6aslWUQAAIvXx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6aslWUQAAIvXx.jpg",
+                "url": "https://t.co/AZ9XCXPU8b",
+                "display_url": "pic.twitter.com/AZ9XCXPU8b",
+                "expanded_url": "https://twitter.com/aajtak/status/954370429136748544/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7047074,
+        "friends_count": 477,
+        "listed_count": 2597,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243031,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:10:10 +0000 2018",
+    "id": 954370405644603393,
+    "id_str": "954370405644603393",
+    "text": "Hot yoga is no better for you than regular yoga, study says https://t.co/MAzFnYdBaS",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/MAzFnYdBaS",
+                "expanded_url": "http://ti.me/2mU1FZE",
+                "display_url": "ti.me/2mU1FZE",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14293310,
+        "id_str": "14293310",
+        "name": "TIME",
+        "screen_name": "TIME",
+        "location": "",
+        "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.",
+        "url": "http://t.co/4aYbUuAeSh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/4aYbUuAeSh",
+                        "expanded_url": "http://www.time.com",
+                        "display_url": "time.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15208921,
+        "friends_count": 847,
+        "listed_count": 100995,
+        "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+        "favourites_count": 576,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 267106,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "CC0000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591",
+        "profile_link_color": "DE3333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:07:30 +0000 2018",
+    "id": 954369734019108864,
+    "id_str": "954369734019108864",
+    "text": "https://t.co/4DZrQeVpkN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 954369717426442240,
+                "id_str": "954369717426442240",
+                "indices": [
+                    0,
+                    23
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6aM5eX0AA6v5s.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6aM5eX0AA6v5s.jpg",
+                "url": "https://t.co/4DZrQeVpkN",
+                "display_url": "pic.twitter.com/4DZrQeVpkN",
+                "expanded_url": "https://twitter.com/deepikapadukone/status/954369734019108864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1146,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1146,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 331,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954369717426442240,
+                "id_str": "954369717426442240",
+                "indices": [
+                    0,
+                    23
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6aM5eX0AA6v5s.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6aM5eX0AA6v5s.jpg",
+                "url": "https://t.co/4DZrQeVpkN",
+                "display_url": "pic.twitter.com/4DZrQeVpkN",
+                "expanded_url": "https://twitter.com/deepikapadukone/status/954369734019108864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1146,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1146,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 331,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 101695592,
+        "id_str": "101695592",
+        "name": "Deepika Padukone",
+        "screen_name": "deepikapadukone",
+        "location": "",
+        "description": "",
+        "url": "https://t.co/NaBrXvBkAd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NaBrXvBkAd",
+                        "expanded_url": "http://www.myntra.com/shop/aay-brandpage",
+                        "display_url": "myntra.com/shop/aay-brand\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22801895,
+        "friends_count": 74,
+        "listed_count": 21716,
+        "created_at": "Mon Jan 04 07:51:32 +0000 2010",
+        "favourites_count": 16,
+        "utc_offset": 19800,
+        "time_zone": "Mumbai",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3521,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/731666578/861c2a67d61394c70bcb7ea1f767d01b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/731666578/861c2a67d61394c70bcb7ea1f767d01b.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910675279328055296/iYSIt7PX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910675279328055296/iYSIt7PX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101695592/1515939936",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 237,
+    "favorite_count": 1034,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "und"
+}{
+    "created_at": "Fri Jan 19 15:04:32 +0000 2018",
+    "id": 954368985436426240,
+    "id_str": "954368985436426240",
+    "text": "Final chance to apply! We\u2019re opening the doors to our facilities across the country &amp; inviting our social media fol\u2026 https://t.co/C0IJvtmS1W",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/C0IJvtmS1W",
+                "expanded_url": "https://twitter.com/i/web/status/954368985436426240",
+                "display_url": "twitter.com/i/web/status/9\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 11348282,
+        "id_str": "11348282",
+        "name": "NASA",
+        "screen_name": "NASA",
+        "location": "",
+        "description": "Explore the universe and discover our home planet with @NASA. We usually post in EST (UTC-5).",
+        "url": "https://t.co/TcEE6NS8nD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TcEE6NS8nD",
+                        "expanded_url": "http://www.nasa.gov",
+                        "display_url": "nasa.gov",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 28043515,
+        "friends_count": 270,
+        "listed_count": 90544,
+        "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+        "favourites_count": 2944,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 50266,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1515780315",
+        "profile_link_color": "205BA7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F2F2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 74,
+    "favorite_count": 250,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:00:23 +0000 2018",
+    "id": 954367941566492673,
+    "id_str": "954367941566492673",
+    "text": "This condiment became so essential to the ancient Roman palate that a huge network of trade routes grew to move the\u2026 https://t.co/bJKReianKG",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bJKReianKG",
+                "expanded_url": "https://twitter.com/i/web/status/954367941566492673",
+                "display_url": "twitter.com/i/web/status/9\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 17471979,
+        "id_str": "17471979",
+        "name": "National Geographic",
+        "screen_name": "NatGeo",
+        "location": "Global",
+        "description": "Since its inception nearly 130 years ago, the core purpose of National Geographic has been to further the knowledge and awareness of our world.",
+        "url": "http://t.co/mwaSar7U14",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/mwaSar7U14",
+                        "expanded_url": "http://www.nationalgeographic.com/",
+                        "display_url": "nationalgeographic.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21841607,
+        "friends_count": 23,
+        "listed_count": 63031,
+        "created_at": "Tue Nov 18 21:28:10 +0000 2008",
+        "favourites_count": 2826,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 40697,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "292828",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502135013379301376/R64Ka5Tf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502135013379301376/R64Ka5Tf.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921336759979597825/VTSJ5mRt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921336759979597825/VTSJ5mRt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17471979/1499882971",
+        "profile_link_color": "F5CE23",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 104,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:00:19 +0000 2018",
+    "id": 954367925086978049,
+    "id_str": "954367925086978049",
+    "text": "19 secrets your millionaire neighbor won't tell you https://t.co/09Qefdr6or",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/09Qefdr6or",
+                "expanded_url": "http://ti.me/2EX0Ztz",
+                "display_url": "ti.me/2EX0Ztz",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14293310,
+        "id_str": "14293310",
+        "name": "TIME",
+        "screen_name": "TIME",
+        "location": "",
+        "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.",
+        "url": "http://t.co/4aYbUuAeSh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/4aYbUuAeSh",
+                        "expanded_url": "http://www.time.com",
+                        "display_url": "time.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15208921,
+        "friends_count": 847,
+        "listed_count": 100995,
+        "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+        "favourites_count": 576,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 267106,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "CC0000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591",
+        "profile_link_color": "DE3333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:00:03 +0000 2018",
+    "id": 954367858238144512,
+    "id_str": "954367858238144512",
+    "text": "New Maruti Suzuki Swift: All you need to know https://t.co/PQuLEUkEU4 via @TOIAuto https://t.co/QRe80Lup1q",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TOIAuto",
+                "name": "TOI Auto News",
+                "id": 4843834147,
+                "id_str": "4843834147",
+                "indices": [
+                    74,
+                    82
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/PQuLEUkEU4",
+                "expanded_url": "http://toi.in/nzuw5a/a24gk",
+                "display_url": "toi.in/nzuw5a/a24gk",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 954350921802117120,
+                "id_str": "954350921802117120",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6JG2UU8AABOgF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6JG2UU8AABOgF.jpg",
+                "url": "https://t.co/QRe80Lup1q",
+                "display_url": "pic.twitter.com/QRe80Lup1q",
+                "expanded_url": "https://twitter.com/timesofindia/status/954367858238144512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 600,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954350921802117120,
+                "id_str": "954350921802117120",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6JG2UU8AABOgF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6JG2UU8AABOgF.jpg",
+                "url": "https://t.co/QRe80Lup1q",
+                "display_url": "pic.twitter.com/QRe80Lup1q",
+                "expanded_url": "https://twitter.com/timesofindia/status/954367858238144512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 600,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134758540,
+        "id_str": "134758540",
+        "name": "Times of India",
+        "screen_name": "timesofindia",
+        "location": "New Delhi",
+        "description": "News. Views. Analyses. Conversations. India\u2019s No.1 digital news destination, world\u2019s largest-selling English newspaper - A Times Internet Limited Product",
+        "url": "https://t.co/JxQOlwNQ7E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JxQOlwNQ7E",
+                        "expanded_url": "http://www.timesofindia.com",
+                        "display_url": "timesofindia.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11023991,
+        "friends_count": 501,
+        "listed_count": 10477,
+        "created_at": "Mon Apr 19 10:50:15 +0000 2010",
+        "favourites_count": 232,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 361604,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1515840447",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 14:59:39 +0000 2018",
+    "id": 954367759156219904,
+    "id_str": "954367759156219904",
+    "text": "T MINUS 6 HOURS #HOA350\n\u27a1\ufe0f https://t.co/Qlp2Rsvo80 \u2b05\ufe0f https://t.co/3OvsRX9MiL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HOA350",
+                "indices": [
+                    16,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Qlp2Rsvo80",
+                "expanded_url": "http://live.djhardwell.com",
+                "display_url": "live.djhardwell.com",
+                "indices": [
+                    27,
+                    50
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 954349471990771713,
+                "id_str": "954349471990771713",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6HydWXcAE58-e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6HydWXcAE58-e.jpg",
+                "url": "https://t.co/3OvsRX9MiL",
+                "display_url": "pic.twitter.com/3OvsRX9MiL",
+                "expanded_url": "https://twitter.com/HARDWELL/status/954367759156219904/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954349471990771713,
+                "id_str": "954349471990771713",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6HydWXcAE58-e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6HydWXcAE58-e.jpg",
+                "url": "https://t.co/3OvsRX9MiL",
+                "display_url": "pic.twitter.com/3OvsRX9MiL",
+                "expanded_url": "https://twitter.com/HARDWELL/status/954367759156219904/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 21787625,
+        "id_str": "21787625",
+        "name": "Hardwell",
+        "screen_name": "HARDWELL",
+        "location": "",
+        "description": "DJ/Producer | Label: @RevealedRec | Radioshow: @HardwellOnAir | Merch: https://t.co/6ctCTLYgxL",
+        "url": "https://t.co/rZlAhnSpgl",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rZlAhnSpgl",
+                        "expanded_url": "http://hardwell.live",
+                        "display_url": "hardwell.live",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6ctCTLYgxL",
+                        "expanded_url": "http://hardwellstore.com",
+                        "display_url": "hardwellstore.com",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7990696,
+        "friends_count": 1047,
+        "listed_count": 5341,
+        "created_at": "Tue Feb 24 19:38:00 +0000 2009",
+        "favourites_count": 7223,
+        "utc_offset": 3600,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11066,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/545219577018212352/KUkE0PDm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/545219577018212352/KUkE0PDm.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/941316623394320384/K8QGH_T4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/941316623394320384/K8QGH_T4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21787625/1516373331",
+        "profile_link_color": "7D9093",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0F0F0F",
+        "profile_text_color": "757575",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 170,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "fr"
+}{
+    "created_at": "Fri Jan 19 14:59:19 +0000 2018",
+    "id": 954367672350793730,
+    "id_str": "954367672350793730",
+    "text": "\u0905\u091c\u092f \u092e\u093e\u0915\u0928 \u0928\u0947 \u0907\u0938\u0947 \u0938\u094d\u0935\u091a\u094d\u091b \u0938\u093f\u092f\u093e\u0938\u0924 \u0915\u0940 \u092c\u0921\u093c\u0940 \u091c\u0940\u0924 \u092c\u0924\u093e\u092f\u093e \u0939\u0948\nhttps://t.co/0zVtXOQPMx",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/0zVtXOQPMx",
+                "expanded_url": "https://aajtak.intoday.in/story/election-commission-cec-aap-mla-office-of-profit-congress-reaction-1-978863.html",
+                "display_url": "aajtak.intoday.in/story/election\u2026",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7047074,
+        "friends_count": 477,
+        "listed_count": 2597,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243031,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 38,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 14:56:56 +0000 2018",
+    "id": 954367072552738816,
+    "id_str": "954367072552738816",
+    "text": "\u0915\u094d\u092f\u093e \u092d\u093e\u0930\u0924-\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u092c\u0940\u091a \u092f\u0941\u0926\u094d\u0927 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u093e \u0939\u0948? \n#Khabardar , 8:55 PM, @aajtak \u092a\u0930 @sardanarohit \u0915\u0947 \u0938\u093e\u0925 https://t.co/LXD6sMIhPr",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Khabardar",
+                "indices": [
+                    48,
+                    58
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aajtak",
+                "name": "\u0906\u091c \u0924\u0915",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    70,
+                    77
+                ]
+            },
+            {
+                "screen_name": "sardanarohit",
+                "name": "Rohit Sardana",
+                "id": 111944435,
+                "id_str": "111944435",
+                "indices": [
+                    81,
+                    94
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 954366896316366848,
+                "id_str": "954366896316366848",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6XosBUQAAgAv8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6XosBUQAAgAv8.jpg",
+                "url": "https://t.co/LXD6sMIhPr",
+                "display_url": "pic.twitter.com/LXD6sMIhPr",
+                "expanded_url": "https://twitter.com/aajtak/status/954367072552738816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954366896316366848,
+                "id_str": "954366896316366848",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6XosBUQAAgAv8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6XosBUQAAgAv8.jpg",
+                "url": "https://t.co/LXD6sMIhPr",
+                "display_url": "pic.twitter.com/LXD6sMIhPr",
+                "expanded_url": "https://twitter.com/aajtak/status/954367072552738816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7047074,
+        "friends_count": 477,
+        "listed_count": 2597,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243031,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:24:24 +0000 2018",
+    "id": 954373987177385985,
+    "id_str": "954373987177385985",
+    "text": "AAP \u0928\u0947 \u0906\u092a\u0915\u094b \u0927\u094b\u0916\u093e \u0926\u093f\u092f\u093e? \n#Khabardar , 9.28 PM, @aajtak \u092a\u0930 @sardanarohit \u0915\u0947 \u0938\u093e\u0925 https://t.co/2susXrzVmV",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Khabardar",
+                "indices": [
+                    24,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aajtak",
+                "name": "\u0906\u091c \u0924\u0915",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    46,
+                    53
+                ]
+            },
+            {
+                "screen_name": "sardanarohit",
+                "name": "Rohit Sardana",
+                "id": 111944435,
+                "id_str": "111944435",
+                "indices": [
+                    57,
+                    70
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 954373925495951360,
+                "id_str": "954373925495951360",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg",
+                "url": "https://t.co/2susXrzVmV",
+                "display_url": "pic.twitter.com/2susXrzVmV",
+                "expanded_url": "https://twitter.com/aajtak/status/954373987177385985/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954373925495951360,
+                "id_str": "954373925495951360",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg",
+                "url": "https://t.co/2susXrzVmV",
+                "display_url": "pic.twitter.com/2susXrzVmV",
+                "expanded_url": "https://twitter.com/aajtak/status/954373987177385985/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 544,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7046978,
+        "friends_count": 477,
+        "listed_count": 2604,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243036,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:20:39 +0000 2018",
+    "id": 954373042565660672,
+    "id_str": "954373042565660672",
+    "text": "#Dangal: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092b\u093f\u0930 \u090f\u0915 \u092c\u093e\u0930 \u092e\u094b\u0926\u0940 \u092c\u0928\u093e\u092e \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932!\n\u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e- @sardanarohit \u0915\u0947 \u0938\u093e\u0925-\u2026 https://t.co/tC6mrmqKAy",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Dangal",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sardanarohit",
+                "name": "Rohit Sardana",
+                "id": 111944435,
+                "id_str": "111944435",
+                "indices": [
+                    73,
+                    86
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/tC6mrmqKAy",
+                "expanded_url": "https://twitter.com/i/web/status/954373042565660672",
+                "display_url": "twitter.com/i/web/status/9\u2026",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7046978,
+        "friends_count": 477,
+        "listed_count": 2604,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243036,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 55,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:20:37 +0000 2018",
+    "id": 954373032516055040,
+    "id_str": "954373032516055040",
+    "text": "\u092a\u0926\u094d\u092e\u093e\u0935\u0924 \u092b\u093f\u200d\u0932\u094d\u092e \u0915\u094b \u0932\u0947\u0915\u0930 \u0915\u0930\u0923\u0940 \u0938\u0947\u0928\u093e \u0905\u092a\u0928\u0940 \u092c\u093e\u0924 \u092a\u0930 \u0905\u0921\u093c\u093e \u0939\u0941\u0906 \u0939\u0948.\nhttps://t.co/VNL3yC2RHn",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/VNL3yC2RHn",
+                "expanded_url": "https://aajtak.intoday.in/story/padmavat-karni-sena-gujarat-protest-1-978883.html",
+                "display_url": "aajtak.intoday.in/story/padmavat\u2026",
+                "indices": [
+                    58,
+                    81
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7046978,
+        "friends_count": 477,
+        "listed_count": 2604,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243036,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:20:14 +0000 2018",
+    "id": 954372936059801600,
+    "id_str": "954372936059801600",
+    "text": "The \"widespread\" flu is causing churches to alter Mass traditions https://t.co/6thYbOaGlR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6thYbOaGlR",
+                "expanded_url": "http://ti.me/2FWCWN0",
+                "display_url": "ti.me/2FWCWN0",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14293310,
+        "id_str": "14293310",
+        "name": "TIME",
+        "screen_name": "TIME",
+        "location": "",
+        "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.",
+        "url": "http://t.co/4aYbUuAeSh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/4aYbUuAeSh",
+                        "expanded_url": "http://www.time.com",
+                        "display_url": "time.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15208970,
+        "friends_count": 847,
+        "listed_count": 101085,
+        "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+        "favourites_count": 576,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 267108,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "CC0000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591",
+        "profile_link_color": "DE3333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:18:54 +0000 2018",
+    "id": 954372601349984257,
+    "id_str": "954372601349984257",
+    "text": "RT @TOICitiesNews: Delhi-Guwahati @airindiain flight suffers bird hit while landing at #Guwahati airport. 160 passengers were on-board the\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Guwahati",
+                "indices": [
+                    87,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TOICitiesNews",
+                "name": "TOI Cities",
+                "id": 30846824,
+                "id_str": "30846824",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "airindiain",
+                "name": "Air India",
+                "id": 387573617,
+                "id_str": "387573617",
+                "indices": [
+                    34,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134758540,
+        "id_str": "134758540",
+        "name": "Times of India",
+        "screen_name": "timesofindia",
+        "location": "New Delhi",
+        "description": "News. Views. Analyses. Conversations. India\u2019s No.1 digital news destination, world\u2019s largest-selling English newspaper - A Times Internet Limited Product",
+        "url": "https://t.co/JxQOlwNQ7E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JxQOlwNQ7E",
+                        "expanded_url": "http://www.timesofindia.com",
+                        "display_url": "timesofindia.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11024034,
+        "friends_count": 501,
+        "listed_count": 10495,
+        "created_at": "Mon Apr 19 10:50:15 +0000 2010",
+        "favourites_count": 232,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 361607,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1515840447",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jan 19 15:17:02 +0000 2018",
+        "id": 954372133206999041,
+        "id_str": "954372133206999041",
+        "text": "Delhi-Guwahati @airindiain flight suffers bird hit while landing at #Guwahati airport. 160 passengers were on-board\u2026 https://t.co/gqH5S0WKHY",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Guwahati",
+                    "indices": [
+                        68,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "airindiain",
+                    "name": "Air India",
+                    "id": 387573617,
+                    "id_str": "387573617",
+                    "indices": [
+                        15,
+                        26
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gqH5S0WKHY",
+                    "expanded_url": "https://twitter.com/i/web/status/954372133206999041",
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 30846824,
+            "id_str": "30846824",
+            "name": "TOI Cities",
+            "screen_name": "TOICitiesNews",
+            "location": "",
+            "description": "Unmatched coverage from over 60 cities across India brought to you by https://t.co/VSKi1mkZBr",
+            "url": "https://t.co/JcPDiuuhoz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcPDiuuhoz",
+                            "expanded_url": "http://timesofindia.indiatimes.com/city",
+                            "display_url": "timesofindia.indiatimes.com/city",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VSKi1mkZBr",
+                            "expanded_url": "http://timesofindia.com",
+                            "display_url": "timesofindia.com",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 11162,
+            "friends_count": 71,
+            "listed_count": 182,
+            "created_at": "Mon Apr 13 11:14:45 +0000 2009",
+            "favourites_count": 10,
+            "utc_offset": 19800,
+            "time_zone": "New Delhi",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 295116,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/57296977/toi_twitter2b.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/57296977/toi_twitter2b.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/906649119/TOI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/906649119/TOI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30846824/1461150913",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:18:37 +0000 2018",
+    "id": 954372530378219521,
+    "id_str": "954372530378219521",
+    "text": "White House to hold a briefing on possible government shutdown at 10:30 a.m. ET, reports Reuters",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134758540,
+        "id_str": "134758540",
+        "name": "Times of India",
+        "screen_name": "timesofindia",
+        "location": "New Delhi",
+        "description": "News. Views. Analyses. Conversations. India\u2019s No.1 digital news destination, world\u2019s largest-selling English newspaper - A Times Internet Limited Product",
+        "url": "https://t.co/JxQOlwNQ7E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JxQOlwNQ7E",
+                        "expanded_url": "http://www.timesofindia.com",
+                        "display_url": "timesofindia.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11024034,
+        "friends_count": 501,
+        "listed_count": 10495,
+        "created_at": "Mon Apr 19 10:50:15 +0000 2010",
+        "favourites_count": 232,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 361607,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1515840447",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:18:35 +0000 2018",
+    "id": 954372521293365249,
+    "id_str": "954372521293365249",
+    "text": "\u0932\u0917\u093e\u0924\u093e\u0930 \u092b\u093e\u092f\u0930\u093f\u0902\u0917 \u0938\u0947 \u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u0940\u092e\u093e \u0914\u0930 \u090f\u0932\u0913\u0938\u0940 \u092a\u0930 \u0939\u093e\u0908 \u0905\u0932\u0930\u094d\u091f\nhttps://t.co/hyuQxmq317",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/hyuQxmq317",
+                "expanded_url": "https://aajtak.intoday.in/story/high-alert-of-international-border-and-loc-pakistan-still-firing-1-978889.html",
+                "display_url": "aajtak.intoday.in/story/high-ale\u2026",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7046978,
+        "friends_count": 477,
+        "listed_count": 2604,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243036,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:15:11 +0000 2018",
+    "id": 954371666896855042,
+    "id_str": "954371666896855042",
+    "text": "#Krantikari: \u0932\u093e\u092d \u0915\u0947 \u092a\u0926 \u092a\u0930 AAP \u0915\u0940 \u092d\u093e\u0930\u0940 \u0939\u093e\u0928\u093f\n\u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e @anjanaomkashyap \u0915\u0947 \u0938\u093e\u0925-  https://t.co/m33vn2WN5H https://t.co/0Gs909FM7s",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Krantikari",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "anjanaomkashyap",
+                "name": "Anjana Om Kashyap",
+                "id": 101215084,
+                "id_str": "101215084",
+                "indices": [
+                    64,
+                    80
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/m33vn2WN5H",
+                "expanded_url": "http://bit.ly/2DrWA53",
+                "display_url": "bit.ly/2DrWA53",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 954369618381914112,
+                "id_str": "954369618381914112",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/954369618381914112/img/Vhh_7dUZ5iv5YCS8.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/954369618381914112/img/Vhh_7dUZ5iv5YCS8.jpg",
+                "url": "https://t.co/0Gs909FM7s",
+                "display_url": "pic.twitter.com/0Gs909FM7s",
+                "expanded_url": "https://twitter.com/aajtak/status/954371666896855042/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954369618381914112,
+                "id_str": "954369618381914112",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/954369618381914112/img/Vhh_7dUZ5iv5YCS8.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/954369618381914112/img/Vhh_7dUZ5iv5YCS8.jpg",
+                "url": "https://t.co/0Gs909FM7s",
+                "display_url": "pic.twitter.com/0Gs909FM7s",
+                "expanded_url": "https://twitter.com/aajtak/status/954371666896855042/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 264000,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/954369618381914112/vid/480x360/MsJZCCtdaIUVXw-V.mp4"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/954369618381914112/pl/hWAU3kEZOYL8HNw6.m3u8"
+                        },
+                        {
+                            "bitrate": 320000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/954369618381914112/vid/240x180/1WxpzLMxha6mpGay.mp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "title": "\u0932\u093e\u092d \u0915\u0947 \u092a\u0926 \u092a\u0930 AAP \u0915\u0940 \u092d\u093e\u0930\u0940 \u0939\u093e\u0928\u093f",
+                    "description": "",
+                    "call_to_actions": {
+                        "visit_site": {
+                            "url": "http://bit.ly/2DrWA53"
+                        }
+                    },
+                    "embeddable": true,
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 42606652,
+        "id_str": "42606652",
+        "name": "\u0906\u091c \u0924\u0915",
+        "screen_name": "aajtak",
+        "location": "India",
+        "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a",
+        "url": "http://t.co/Ax41HaqJPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ax41HaqJPW",
+                        "expanded_url": "http://www.aajtak.in",
+                        "display_url": "aajtak.in",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yyPkedfl5a",
+                        "expanded_url": "https://goo.gl/MX6rmg",
+                        "display_url": "goo.gl/MX6rmg",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7046978,
+        "friends_count": 477,
+        "listed_count": 2604,
+        "created_at": "Tue May 26 11:31:00 +0000 2009",
+        "favourites_count": 16552,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 243036,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "hi"
+}{
+    "created_at": "Fri Jan 19 15:15:06 +0000 2018",
+    "id": 954371645308891138,
+    "id_str": "954371645308891138",
+    "text": "Detectives searched a house for weapons. They found a crocodile instead https://t.co/6zWuHmy2Gb",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6zWuHmy2Gb",
+                "expanded_url": "http://ti.me/2mQoMnQ",
+                "display_url": "ti.me/2mQoMnQ",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14293310,
+        "id_str": "14293310",
+        "name": "TIME",
+        "screen_name": "TIME",
+        "location": "",
+        "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.",
+        "url": "http://t.co/4aYbUuAeSh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/4aYbUuAeSh",
+                        "expanded_url": "http://www.time.com",
+                        "display_url": "time.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15208970,
+        "friends_count": 847,
+        "listed_count": 101085,
+        "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+        "favourites_count": 576,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 267108,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "CC0000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591",
+        "profile_link_color": "DE3333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 33,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{
+    "created_at": "Fri Jan 19 15:15:00 +0000 2018",
+    "id": 954371620985958400,
+    "id_str": "954371620985958400",
+    "text": "No plans of a Modi-Abbasi meet at Davos, says MEA https://t.co/6uRl19qD6e https://t.co/UeatkOLj2O",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6uRl19qD6e",
+                "expanded_url": "http://toi.in/AWgX4Y/a24gk",
+                "display_url": "toi.in/AWgX4Y/a24gk",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 954352494070476802,
+                "id_str": "954352494070476802",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6KiXeUMAIqoCe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6KiXeUMAIqoCe.jpg",
+                "url": "https://t.co/UeatkOLj2O",
+                "display_url": "pic.twitter.com/UeatkOLj2O",
+                "expanded_url": "https://twitter.com/timesofindia/status/954371620985958400/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 954352494070476802,
+                "id_str": "954352494070476802",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/DT6KiXeUMAIqoCe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DT6KiXeUMAIqoCe.jpg",
+                "url": "https://t.co/UeatkOLj2O",
+                "display_url": "pic.twitter.com/UeatkOLj2O",
+                "expanded_url": "https://twitter.com/timesofindia/status/954371620985958400/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134758540,
+        "id_str": "134758540",
+        "name": "Times of India",
+        "screen_name": "timesofindia",
+        "location": "New Delhi",
+        "description": "News. Views. Analyses. Conversations. India\u2019s No.1 digital news destination, world\u2019s largest-selling English newspaper - A Times Internet Limited Product",
+        "url": "https://t.co/JxQOlwNQ7E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JxQOlwNQ7E",
+                        "expanded_url": "http://www.timesofindia.com",
+                        "display_url": "timesofindia.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11024034,
+        "friends_count": 501,
+        "listed_count": 10495,
+        "created_at": "Mon Apr 19 10:50:15 +0000 2010",
+        "favourites_count": 232,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 361607,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1515840447",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}{"created_at": "Fri Jan 19 15:34:49 +0000 2018", "id": 954376607900188672, "id_str": "954376607900188672", "text": "AAP \u0915\u0947 20 \u0935\u093f\u0927\u093e\u092f\u0915\u094b\u0902 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u0905\u0927\u0930 \u092e\u0947\u0902 \u0932\u091f\u0915\u093e,  \u091a\u0941\u0928\u093e\u0935\u0940 \u0924\u0948\u092f\u093e\u0930\u0940 \u092e\u0947\u0902 \u091c\u0941\u091f\u0940 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938. \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0926\u093f\u0932\u094d\u0932\u0940 \u0905\u0927\u094d\u092f\u0915\u094d\u0937 @ajaymaken \u0928\u0947\u2026 https://t.co/WTYoGGenu6", "truncated": true, "entities": {"hashtags": [], "symbols": [], "user_mentions": [{"screen_name": "ajaymaken", "name": "Ajay Maken", "id": 59983585, "id_str": "59983585", "indices": [100, 110]}], "urls": [{"url": "https://t.co/WTYoGGenu6", "expanded_url": "https://twitter.com/i/web/status/954376607900188672", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [115, 138]}]}, "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 1, "favorite_count": 5, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:30:02 +0000 2018", "id": 954375404663525376, "id_str": "954375404663525376", "text": "This flu map shows how the biggest influenza outbreak in years spread across the U.S. https://t.co/Y8VEjPwatt", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/Y8VEjPwatt", "expanded_url": "http://ti.me/2BeaP8b", "display_url": "ti.me/2BeaP8b", "indices": [86, 109]}]}, "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 14293310, "id_str": "14293310", "name": "TIME", "screen_name": "TIME", "location": "", "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.", "url": "http://t.co/4aYbUuAeSh", "entities": {"url": {"urls": [{"url": "http://t.co/4aYbUuAeSh", "expanded_url": "http://www.time.com", "display_url": "time.com", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 15209024, "friends_count": 847, "listed_count": 101139, "created_at": "Thu Apr 03 13:54:30 +0000 2008", "favourites_count": 576, "utc_offset": -18000, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "verified": true, "statuses_count": 267110, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": true, "profile_background_color": "CC0000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_tile": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591", "profile_link_color": "DE3333", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "D9D9D9", "profile_text_color": "000000", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "regular"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 15, "favorite_count": 13, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "en"}{"created_at": "Fri Jan 19 15:30:01 +0000 2018", "id": 954375401756803074, "id_str": "954375401756803074", "text": "Loan scam: CBI registers FIRs against 22 PNB employees https://t.co/43KM9eW8AG via @TOICitiesNews https://t.co/Gadoq3exWt", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [{"screen_name": "TOICitiesNews", "name": "TOI Cities", "id": 30846824, "id_str": "30846824", "indices": [83, 97]}], "urls": [{"url": "https://t.co/43KM9eW8AG", "expanded_url": "http://toi.in/I55WSb/a24gk", "display_url": "toi.in/I55WSb/a24gk", "indices": [55, 78]}], "media": [{"id": 954358283132854274, "id_str": "954358283132854274", "indices": [98, 121], "media_url": "http://pbs.twimg.com/media/DT6PzVaV4AISAUw.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6PzVaV4AISAUw.jpg", "url": "https://t.co/Gadoq3exWt", "display_url": "pic.twitter.com/Gadoq3exWt", "expanded_url": "https://twitter.com/timesofindia/status/954375401756803074/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 600, "h": 417, "resize": "fit"}, "large": {"w": 600, "h": 417, "resize": "fit"}, "medium": {"w": 600, "h": 417, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 954358283132854274, "id_str": "954358283132854274", "indices": [98, 121], "media_url": "http://pbs.twimg.com/media/DT6PzVaV4AISAUw.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6PzVaV4AISAUw.jpg", "url": "https://t.co/Gadoq3exWt", "display_url": "pic.twitter.com/Gadoq3exWt", "expanded_url": "https://twitter.com/timesofindia/status/954375401756803074/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 600, "h": 417, "resize": "fit"}, "large": {"w": 600, "h": 417, "resize": "fit"}, "medium": {"w": 600, "h": 417, "resize": "fit"}}}]}, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 134758540, "id_str": "134758540", "name": "Times of India", "screen_name": "timesofindia", "location": "New Delhi", "description": "News. Views. Analyses. Conversations. India\u2019s No.1 digital news destination, world\u2019s largest-selling English newspaper - A Times Internet Limited Product", "url": "https://t.co/JxQOlwNQ7E", "entities": {"url": {"urls": [{"url": "https://t.co/JxQOlwNQ7E", "expanded_url": "http://www.timesofindia.com", "display_url": "timesofindia.com", "indices": [0, 23]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 11024080, "friends_count": 501, "listed_count": 10501, "created_at": "Mon Apr 19 10:50:15 +0000 2010", "favourites_count": 232, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": false, "verified": true, "statuses_count": 361608, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1515840447", "profile_link_color": "0084B4", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "regular"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 0, "favorite_count": 14, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "en"}{"created_at": "Fri Jan 19 15:26:24 +0000 2018", "id": 954374489034309632, "id_str": "954374489034309632", "text": "\u2018\u0932\u093e\u092d\u2019 \u0915\u0947 \u0932\u094b\u092d \u092e\u0947\u0902 \u2018\u0906\u092a\u2019 \u0915\u0940 \u2018\u0939\u093e\u0928\u093f\u2019! \n#Khabardar , 9.28 PM, @aajtak \u092a\u0930 @sardanarohit \u0915\u0947 \u0938\u093e\u0925 https://t.co/DCgtyz8rCH", "truncated": false, "entities": {"hashtags": [{"text": "Khabardar", "indices": [34, 44]}], "symbols": [], "user_mentions": [{"screen_name": "aajtak", "name": "\u0906\u091c \u0924\u0915", "id": 42606652, "id_str": "42606652", "indices": [56, 63]}, {"screen_name": "sardanarohit", "name": "Rohit Sardana", "id": 111944435, "id_str": "111944435", "indices": [67, 80]}], "urls": [], "media": [{"id": 954374361888075776, "id_str": "954374361888075776", "indices": [88, 111], "media_url": "http://pbs.twimg.com/media/DT6ebPcUMAAU01E.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6ebPcUMAAU01E.jpg", "url": "https://t.co/DCgtyz8rCH", "display_url": "pic.twitter.com/DCgtyz8rCH", "expanded_url": "https://twitter.com/aajtak/status/954374489034309632/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 720, "h": 576, "resize": "fit"}, "medium": {"w": 720, "h": 576, "resize": "fit"}, "small": {"w": 680, "h": 544, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 954374361888075776, "id_str": "954374361888075776", "indices": [88, 111], "media_url": "http://pbs.twimg.com/media/DT6ebPcUMAAU01E.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6ebPcUMAAU01E.jpg", "url": "https://t.co/DCgtyz8rCH", "display_url": "pic.twitter.com/DCgtyz8rCH", "expanded_url": "https://twitter.com/aajtak/status/954374489034309632/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 720, "h": 576, "resize": "fit"}, "medium": {"w": 720, "h": 576, "resize": "fit"}, "small": {"w": 680, "h": 544, "resize": "fit"}}}]}, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 6, "favorite_count": 43, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:25:38 +0000 2018", "id": 954374298537377792, "id_str": "954374298537377792", "text": "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0938\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940 \u0915\u0940 \u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u0915\u092e\u0947\u091f\u0940 \u0915\u0940 \u0905\u0939\u092e \u092c\u0948\u0920\u0915 \u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930 \u0915\u094b \u0915\u094b\u0932\u0915\u093e\u0924\u093e \u092e\u0947\u0902 \u0936\u0941\u0930\u0942 \u0939\u0941\u0908.\nhttps://t.co/zPKEF9bibA", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/zPKEF9bibA", "expanded_url": "https://aajtak.intoday.in/story/sitaram-yechury-prakash-karat-congress-cpm-west-bengal-election-strategy-visakhapatnam-1-978868.html", "display_url": "aajtak.intoday.in/story/sitaram-\u2026", "indices": [88, 111]}]}, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 4, "favorite_count": 28, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:25:07 +0000 2018", "id": 954374168648306688, "id_str": "954374168648306688", "text": "What to know about David and Louise Turpin, the parents accused of torturing 12 siblings https://t.co/rXCvktJX9J", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/rXCvktJX9J", "expanded_url": "http://ti.me/2mN31oO", "display_url": "ti.me/2mN31oO", "indices": [89, 112]}]}, "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 14293310, "id_str": "14293310", "name": "TIME", "screen_name": "TIME", "location": "", "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.", "url": "http://t.co/4aYbUuAeSh", "entities": {"url": {"urls": [{"url": "http://t.co/4aYbUuAeSh", "expanded_url": "http://www.time.com", "display_url": "time.com", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 15209024, "friends_count": 847, "listed_count": 101139, "created_at": "Thu Apr 03 13:54:30 +0000 2008", "favourites_count": 576, "utc_offset": -18000, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "verified": true, "statuses_count": 267110, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": true, "profile_background_color": "CC0000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_tile": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591", "profile_link_color": "DE3333", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "D9D9D9", "profile_text_color": "000000", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "regular"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 12, "favorite_count": 15, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "en"}{"created_at": "Fri Jan 19 15:24:24 +0000 2018", "id": 954373987177385985, "id_str": "954373987177385985", "text": "AAP \u0928\u0947 \u0906\u092a\u0915\u094b \u0927\u094b\u0916\u093e \u0926\u093f\u092f\u093e? \n#Khabardar , 9.28 PM, @aajtak \u092a\u0930 @sardanarohit \u0915\u0947 \u0938\u093e\u0925 https://t.co/2susXrzVmV", "truncated": false, "entities": {"hashtags": [{"text": "Khabardar", "indices": [24, 34]}], "symbols": [], "user_mentions": [{"screen_name": "aajtak", "name": "\u0906\u091c \u0924\u0915", "id": 42606652, "id_str": "42606652", "indices": [46, 53]}, {"screen_name": "sardanarohit", "name": "Rohit Sardana", "id": 111944435, "id_str": "111944435", "indices": [57, 70]}], "urls": [], "media": [{"id": 954373925495951360, "id_str": "954373925495951360", "indices": [78, 101], "media_url": "http://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg", "url": "https://t.co/2susXrzVmV", "display_url": "pic.twitter.com/2susXrzVmV", "expanded_url": "https://twitter.com/aajtak/status/954373987177385985/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 680, "h": 544, "resize": "fit"}, "medium": {"w": 720, "h": 576, "resize": "fit"}, "large": {"w": 720, "h": 576, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 954373925495951360, "id_str": "954373925495951360", "indices": [78, 101], "media_url": "http://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg", "media_url_https": "https://pbs.twimg.com/media/DT6eB1wU0AATNkj.jpg", "url": "https://t.co/2susXrzVmV", "display_url": "pic.twitter.com/2susXrzVmV", "expanded_url": "https://twitter.com/aajtak/status/954373987177385985/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 680, "h": 544, "resize": "fit"}, "medium": {"w": 720, "h": 576, "resize": "fit"}, "large": {"w": 720, "h": 576, "resize": "fit"}}}]}, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 8, "favorite_count": 48, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:20:39 +0000 2018", "id": 954373042565660672, "id_str": "954373042565660672", "text": "#Dangal: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092b\u093f\u0930 \u090f\u0915 \u092c\u093e\u0930 \u092e\u094b\u0926\u0940 \u092c\u0928\u093e\u092e \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932!\n\u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e- @sardanarohit \u0915\u0947 \u0938\u093e\u0925-\u2026 https://t.co/tC6mrmqKAy", "truncated": true, "entities": {"hashtags": [{"text": "Dangal", "indices": [0, 7]}], "symbols": [], "user_mentions": [{"screen_name": "sardanarohit", "name": "Rohit Sardana", "id": 111944435, "id_str": "111944435", "indices": [73, 86]}], "urls": [{"url": "https://t.co/tC6mrmqKAy", "expanded_url": "https://twitter.com/i/web/status/954373042565660672", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [96, 119]}]}, "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 18, "favorite_count": 134, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:20:37 +0000 2018", "id": 954373032516055040, "id_str": "954373032516055040", "text": "\u092a\u0926\u094d\u092e\u093e\u0935\u0924 \u092b\u093f\u200d\u0932\u094d\u092e \u0915\u094b \u0932\u0947\u0915\u0930 \u0915\u0930\u0923\u0940 \u0938\u0947\u0928\u093e \u0905\u092a\u0928\u0940 \u092c\u093e\u0924 \u092a\u0930 \u0905\u0921\u093c\u093e \u0939\u0941\u0906 \u0939\u0948.\nhttps://t.co/VNL3yC2RHn", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/VNL3yC2RHn", "expanded_url": "https://aajtak.intoday.in/story/padmavat-karni-sena-gujarat-protest-1-978883.html", "display_url": "aajtak.intoday.in/story/padmavat\u2026", "indices": [58, 81]}]}, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 42606652, "id_str": "42606652", "name": "\u0906\u091c \u0924\u0915", "screen_name": "aajtak", "location": "India", "description": "AajTak covers breaking news, latest news in politics, sports, business & cinema. Follow us & stay ahead!\nDownload the App: https://t.co/yyPkedfl5a", "url": "http://t.co/Ax41HaqJPW", "entities": {"url": {"urls": [{"url": "http://t.co/Ax41HaqJPW", "expanded_url": "http://www.aajtak.in", "display_url": "aajtak.in", "indices": [0, 22]}]}, "description": {"urls": [{"url": "https://t.co/yyPkedfl5a", "expanded_url": "https://goo.gl/MX6rmg", "display_url": "goo.gl/MX6rmg", "indices": [123, 146]}]}}, "protected": false, "followers_count": 7047037, "friends_count": 477, "listed_count": 2607, "created_at": "Tue May 26 11:31:00 +0000 2009", "favourites_count": 16552, "utc_offset": 19800, "time_zone": "New Delhi", "geo_enabled": true, "verified": true, "statuses_count": 243039, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/42606652/1515811669", "profile_link_color": "0084B4", "profile_sidebar_border_color": "BDDCAD", "profile_sidebar_fill_color": "DDFFCC", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 7, "favorite_count": 55, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "hi"}{"created_at": "Fri Jan 19 15:20:14 +0000 2018", "id": 954372936059801600, "id_str": "954372936059801600", "text": "The \"widespread\" flu is causing churches to alter Mass traditions https://t.co/6thYbOaGlR", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/6thYbOaGlR", "expanded_url": "http://ti.me/2FWCWN0", "display_url": "ti.me/2FWCWN0", "indices": [66, 89]}]}, "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 14293310, "id_str": "14293310", "name": "TIME", "screen_name": "TIME", "location": "", "description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.", "url": "http://t.co/4aYbUuAeSh", "entities": {"url": {"urls": [{"url": "http://t.co/4aYbUuAeSh", "expanded_url": "http://www.time.com", "display_url": "time.com", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 15209024, "friends_count": 847, "listed_count": 101139, "created_at": "Thu Apr 03 13:54:30 +0000 2008", "favourites_count": 576, "utc_offset": -18000, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "verified": true, "statuses_count": 267110, "lang": "en", "contributors_enabled": false, "is_translator": false, "is_translation_enabled": true, "profile_background_color": "CC0000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", "profile_background_tile": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591", "profile_link_color": "DE3333", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "D9D9D9", "profile_text_color": "000000", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": false, "default_profile_image": false, "following": true, "follow_request_sent": false, "notifications": false, "translator_type": "regular"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 16, "favorite_count": 31, "favorited": false, "retweeted": false, "possibly_sensitive": false, "possibly_sensitive_appealable": false, "lang": "en"}
