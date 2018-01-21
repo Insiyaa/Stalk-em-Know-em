@@ -4,5 +4,5 @@ TimeLine for project
 * Make a function to tokenize text.
 * Get started with pandas and matplotlib to analyse and plot data of location and language.
 * Work on some algo to analyze "text" of tweet to understand the sentiment and major tendency of person.
-* Get started with backend development and make skeleton of webpage.
+* Get started with some other libraries to convert this to an android application.
 * Put this code there to make it more accessible.
