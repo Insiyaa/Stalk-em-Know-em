@@ -1,0 +1,8 @@
+TimeLine for project
+* Get started with tweepy.
+* Gather some data.
+* Make a function to tokenize text.
+* Get started with pandas and matplotlib to analyse and plot data of location and language.
+* Work on some algo to analyze "text" of tweet to understand the sentiment and major tendency of person.
+* Get started with backend development and make skeleton of webpage.
+* Put this code there to make it more accessible.
