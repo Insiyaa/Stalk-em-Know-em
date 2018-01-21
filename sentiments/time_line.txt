@@ -1,6 +1,6 @@
 TimeLine for project
-* Get started with tweepy.
-* Gather some data.
+* Get started with tweepy. (done)
+* Gather some data. (done)
 * Make a function to tokenize text.
 * Get started with pandas and matplotlib to analyse and plot data of location and language.
 * Work on some algo to analyze "text" of tweet to understand the sentiment and major tendency of person.
