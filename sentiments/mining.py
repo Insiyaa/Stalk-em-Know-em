@@ -1,3 +1,10 @@
+from nltk.tokenize import TweetTokenizer
+import preprocessor as p
+from preprocessor.api import clean
+import operator 
+from collections import Counter
+#import vincent
+'''
 import tweepy
 import json
 import pandas as pd
@@ -7,10 +14,10 @@ from nltk.tokenize import word_tokenize
 
 # Consumer key and consumer secret are dummy. Add yours to make this work. I can't share mine publicily.
 
-consumer_key = 'HSsfiqvQcqKKJh6aRl2YGAw7f'
-consumer_secret = 'AHCKKukN4JAcOjlHarPsAf6MdVF3C1iwZaKUPo9RBBIEDzBAUz'
-access_token = '3168794738-siQIS5uIGrEtW7n4gWNBdiqvIYjkmXBSZfcXHo9'
-access_secret = 'ZSfyIBLlQVSwxp6RxZZG4ardokkH3HAMZyESJZjlM3FzK'
+consumer_key = 'HSsfh6aRl2YGAw7f'
+consumer_secret = 'AHCKKuwZaKUPo9RBBIEDzBAUz'
+access_token = '316879473BdiqvIYjkmXBSZfcXHo9'
+access_secret = 'ZSfyIBLZjlM3FzK'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -44,9 +51,49 @@ for tweet in publicTweets:
 
 #for friend in tweepy.Cursor(api.friends).items():
 #    process_or_store(friend, "friends")
+'''
 
-tweet = 'RT @marcobonzanini: just an example! :D http://example.com #NLP'
-print(word_tokenize(tweet))
+tweet = b"@someone did you accomplish happy good check out this #superawesome!! it's very very cool \xF0\x9F\x98\x81 http://t.co/ydfY2".decode('utf-8')
+p.set_options(p.OPT.URL, p.OPT.MENTION, p.OPT.RESERVED, p.OPT.NUMBER)
+tweet = p.clean(tweet)
+tknz = TweetTokenizer()
+tweet = tknz.tokenize(tweet)
+print(tweet)
+#count_all = Counter()
+#terms_all = [term for term in tweet]
+#count_all.update(terms_all)
+#print(count_all.most_common(5))
+
+positives = set()
+negatives = set()
+
+with open("positive-words.txt") as file:
+    for line in file:
+        if not line.startswith(";"):
+            positives.add(line.strip('\n'))
+    file.close()
+
+with open("negative-words.txt") as file:
+    for line in file:
+        if not line.startswith(";"):
+            negatives.add(line.strip('\n'))
+    file.close()
+
+
+score = 0
+for word in tweet:
+    if word in positives:
+        score += 1
+    elif word in negatives:
+        score -= 1
+print(score)
+'''
+word_freq = count_all.most_common(20)
+labels, freq = zip(*word_freq)
+data = {'data': freq, 'x': labels}
+bar = vincent.Bar(data, iter_idx='x')
+bar.to_json('term_freq.json')
+'''
 
 '''
 with open(data_path, 'r') as f:
