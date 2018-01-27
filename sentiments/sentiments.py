@@ -1,11 +1,9 @@
 import tweepy
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
-import preprocessor as p
-from nltk.tokenize import TweetTokenizer
-import preprocessor as p
-from preprocessor.api import clean
+from func import Process
+from collections import Counter
+
 
 #authentication
 consumer_key = 'HSsfiqvQcqKKJh6aRl2YGAw7f'
@@ -21,43 +19,30 @@ api = tweepy.API(auth)
 
 name = input("Enter the Screen Name: ")
 
-publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(10)
+publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50)
+followers = tweepy.Cursor(api.followers,id=name).items(100)
 
-'''
-twt = ''
+tweet_text = []
+languages = []
+f_loc = []
+
 for x in publicTweets:
-    twt = x.text
+    tweet_text.append(x.text)
+    languages.append(x.lang)
+for f in followers:
+    if not f.location == '':
+        f_loc.append(f.location)
+print(len(tweet_text))
+process = Process()
+tweet_text = process.preprocess(tweet_text)
 
-p.set_options(p.OPT.URL, p.OPT.MENTION, p.OPT.RESERVED, p.OPT.NUMBER)
-twt = p.clean(twt)
-tknz = TweetTokenizer()
-twt = tknz.tokenize(twt)
-print(twt)
-'''
+print(process.analyze(tweet_text))
 
-tw_data = []
-for tweet in publicTweets:
-    data = (tweet._json)
-    #dt = json.loads(data)
-    tw_data.append(data)
+count_lang = Counter()
+count_lang.update(languages)
+print(count_lang.most_common(5))
 
+count_loc = Counter()
+count_loc.update(f_loc)
+print(count_loc.most_common(5))
 del publicTweets
-tweets = pd.DataFrame()
-tweets['lang'] = map(lambda t: t['lang'], tw_data)
-tweets['country'] = map(lambda t : t['place']['country'] if t['place'] != None else None, tw_data)
-byLang = tweets['lang'].value_counts()
-byCountry = tweets['country'].value_counts()
-
-fig, ax = plt.subplots()
-ax.set_xlabel('Languages', fontsize=15)
-ax.set_ylabel('Number of tweets' , fontsize=15)
-ax.set_title('Top 5 languages', fontsize=15, fontweight='bold')
-byLang[:5].plot(ax=ax, kind='barh', color='red')
-plt.show()
-
-fig, ax = plt.subplots()
-ax.set_xlabel('Countries', fontsize=15)
-ax.set_ylabel('Number of tweets' , fontsize=15)
-ax.set_title('Top 5 Countries', fontsize=15, fontweight='bold')
-byCountry[:5].plot(ax=ax, kind='barh', color='b')
-plt.show()
