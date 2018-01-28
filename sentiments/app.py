@@ -23,12 +23,12 @@ api = tweepy.API(auth)
 #routing
 @app.route('/')
 def index():
-    return render_template("layout.html")
+    return render_template("index.html")
 
 @app.route('/data', methods=['GET','POST'])
 def data():
     if request.method == "GET":
-        return render_template("layout.html")
+        return render_template("index.html")
     else:
         name = request.form.get("tw_id")
         publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50)
@@ -49,8 +49,8 @@ def data():
         tweet_text = process.preprocess(tweet_text)
 
         analytics = process.analyze(tweet_text)
-        total = sum(analytics)
-        analytics = list(map(lambda x: x * (total/100),list(analytics)))
+        total = analytics[0] + analytics[1] + analytics[2]
+        analytics = list(map(lambda x: x * (100/total),list(analytics)))
         pie_chart = pygal.Pie()
         pie_chart.title = 'Sentiments analysis (in %)'
         pie_chart.add('Positive', analytics[0])
@@ -82,9 +82,9 @@ def data():
         pie_chart.title = 'Location of followers(in %)'
         for e in count_loc:
             pie_chart.add(e[0], (e[1] * (100/sum)))
-        chart2 = pie_chart.render_data_uri()
+        chart3 = pie_chart.render_data_uri()
 
-        return render_template("data.html", y = count_lang, z = count_loc, chart1 = chart1, chart2 = chart2)
+        return render_template("data.html", y = count_lang, z = count_loc, chart1 = chart1, chart2 = chart2, chart3 = chart3)
 
 
 if __name__ == "__main__":
