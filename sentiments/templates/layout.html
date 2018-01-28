@@ -1,0 +1,21 @@
+<!doctyle html>
+<html>
+    <head>
+        <title>
+            Stalk 'em!
+        </title>
+    </head>
+    <body>
+        <form action="{{ url_for('data') }}" method="post">
+            <label for="tw_id">Enter Twitter ID:</label>
+            <input type="text" name="tw_id" placeholder="@screen_name">
+            <button type="submit"></button>
+        </form>
+
+        <p>
+            {{ x }}
+            {{ y }}
+            {{ z }}
+        </p>
+    </body>
+</html>
