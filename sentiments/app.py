@@ -1,7 +1,6 @@
 from flask import Flask, request, render_template, url_for, jsonify
 import tweepy
 import json
-import pandas as pd
 from func import Process
 from collections import Counter
 import pygal
@@ -25,7 +24,7 @@ api = tweepy.API(auth)
 def index():
     return render_template("index.html")
 
-@app.route('/data', methods=['GET','POST'])
+@app.route('/data#stalk', methods=['GET','POST'])
 def data():
     if request.method == "GET":
         return render_template("index.html")
