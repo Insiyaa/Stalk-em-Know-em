@@ -55,7 +55,7 @@ def data():
         pie_chart.title = 'Sentiments analysis (in %)'
         pie_chart.add('Positive', analytics[0])
         pie_chart.add('Negative', analytics[1])
-        pie_chart.add('Neutral', analytics[2])
+        pie_chart.add('Swearing', analytics[2])
         chart1 = pie_chart.render_data_uri()
 
         count_lang = Counter()
@@ -68,7 +68,8 @@ def data():
         pie_chart = pygal.Pie()
         pie_chart.title = 'Languages used (in %)'
         for e in count_lang:
-            pie_chart.add(e[0], (e[1] * (100/sum)))
+            if not e[0] == "und":
+                pie_chart.add(e[0], (e[1] * (100/sum)))
         chart2 = pie_chart.render_data_uri()
 
         count_loc = Counter()

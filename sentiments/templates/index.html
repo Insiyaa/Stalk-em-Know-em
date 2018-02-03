@@ -1,219 +1,219 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<head>
-	<meta charset="utf-8">
-	<title>Stalk 'em Know 'em</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<link href="{{ url_for('static', filename='css/bootstrap-responsive.css') }}" rel="stylesheet"/>
-	<link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/>
-	<link href="{{ url_for('static', filename='color/default.css') }}" rel="stylesheet"/>
-	<link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
-</head>
+	<head>
+		<meta charset="utf-8">
+		<title>Stalk 'em Know 'em</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<link href="{{ url_for('static', filename='css/bootstrap-responsive.css') }}" rel="stylesheet"/>
+		<link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/>
+		<link href="{{ url_for('static', filename='color/default.css') }}" rel="stylesheet"/>
+		<link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+	</head>
 
-<body>
-	<!-- navbar -->
-	<div class="navbar-wrapper">
-		<div class="navbar navbar-inverse navbar-fixed-top">
-			<div class="navbar-inner">
-				<div class="container">
-					<!-- Responsive navbar -->
-					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-				</a>
-					<h1 class="brand"><a href="index.html">Stalk 'em <br>Know 'em</a></h1>
-					<!-- navigation -->
-					<nav class="pull-right nav-collapse collapse">
-						<ul id="menu-main" class="nav">
-							<li><a title="team" href="#about">About</a></li>
-							<li><a title="services" href="#works">Stalk</a></li>
-							<li><a title="contact" href="#contact">Contact</a></li>
-						</ul>
-					</nav>
+	<body>
+		<!-- navbar -->
+		<div class="navbar-wrapper">
+			<div class="navbar navbar-inverse navbar-fixed-top">
+				<div class="navbar-inner">
+					<div class="container">
+						<!-- Responsive navbar -->
+						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</a>
+						<h1 class="brand"><a href="index.html">Stalk 'em <br>Know 'em</a></h1>
+						<!-- navigation -->
+						<nav class="pull-right nav-collapse collapse">
+							<ul id="menu-main" class="nav">
+								<li><a title="team" href="#about">About</a></li>
+								<li><a title="services" href="#works">Stalk</a></li>
+								<li><a title="contact" href="#contact">Contact</a></li>
+							</ul>
+						</nav>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<!-- Header area -->
-	<div id="header-wrapper" class="header-slider">
-		<header class="clearfix">
-			<div class="logo">
-				<img src="{{url_for('static', filename='img/logo-image.png')}}" alt="" />
-			</div>
+		<!-- Header area -->
+		<div id="header-wrapper" class="header-slider">
+			<header class="clearfix">
+				<div class="logo">
+					<img src="{{url_for('static', filename='img/logo-image.png')}}" alt="" />
+				</div>
+				<div class="container">
+					<div class="row">
+						<div class="span12">
+							<div id="main-flexslider" class="flexslider">
+								<ul class="slides">
+									<li>
+										<p class="home-slide-content">
+											<strong>creative</strong> and passion
+										</p>
+									</li>
+									<li>
+										<p class="home-slide-content">
+											Click <strong>and stalk</strong>
+										</p>
+									</li>
+									<li>
+										<p class="home-slide-content">
+											We loves <strong>simplicity</strong>
+										</p>
+									</li>
+								</ul>
+							</div>
+							<!-- end slider -->
+						</div>
+					</div>
+				</div>
+			</header>
+		</div>
+		<!-- spacer section -->
+		<section class="spacer green">
 			<div class="container">
 				<div class="row">
-					<div class="span12">
-						<div id="main-flexslider" class="flexslider">
-							<ul class="slides">
-								<li>
-									<p class="home-slide-content">
-										<strong>creative</strong> and passion
-									</p>
-								</li>
-								<li>
-									<p class="home-slide-content">
-										Eat and drink <strong>design</strong>
-									</p>
-								</li>
-								<li>
-									<p class="home-slide-content">
-										We loves <strong>simplicity</strong>
-									</p>
-								</li>
-							</ul>
+					<div class="span6 alignright flyLeft">
+						<blockquote class="large">
+							There's huge space between news and reality <cite></cite>
+						</blockquote>
+					</div>
+					<div class="span6 aligncenter flyRight">
+						<i class="icon-coffee icon-10x"></i>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- end spacer section -->
+		<!-- section: team -->
+		<section id="about" class="section">
+			<div class="container">
+				<h4>Who We Are</h4>
+				<div class="row">
+					<div class="span4 offset1">
+						<div>
+							<h2>We love playing with <strong>data</strong></h2>
+							<p>
+								This is a project from ACM Month of Code, where we are analyzing people based on their twitter profile.
+							</p>
 						</div>
-						<!-- end slider -->
+					</div>
+					<div class="span6">
+						<div class="aligncenter">
+							<img src="{{url_for('static', filename='img/icons/creativity.png')}}" alt="" />
+						</div>
 					</div>
 				</div>
-			</div>
-		</header>
-	</div>
-	<!-- spacer section -->
-	<section class="spacer green">
-		<div class="container">
-			<div class="row">
-				<div class="span6 alignright flyLeft">
-					<blockquote class="large">
-						There's huge space between news and reality <cite></cite>
-					</blockquote>
-				</div>
-				<div class="span6 aligncenter flyRight">
-					<i class="icon-coffee icon-10x"></i>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- end spacer section -->
-	<!-- section: team -->
-	<section id="about" class="section">
-		<div class="container">
-			<h4>Who We Are</h4>
-			<div class="row">
-				<div class="span4 offset1">
-					<div>
-						<h2>We love playing with <strong>data</strong></h2>
-						<p>
-							This is a project from ACM Month of Code, where we are analyzing people based on their twitter profile.
-						</p>
+				<div class="row">
+					<div class="span3 offset1 flyIn">
+						<div class="people">
+							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-1.jpg')}}" alt="" />
+							<h3>Insiyah</h3>
+							<p>
+							
+							</p>
+						</div>
 					</div>
-				</div>
-				<div class="span6">
-					<div class="aligncenter">
-						<img src="{{url_for('static', filename='img/icons/creativity.png')}}" alt="" />
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="span3 offset1 flyIn">
-					<div class="people">
-						<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-1.jpg')}}" alt="" />
-						<h3>Insiyah</h3>
-						<p>
-						
-						</p>
-					</div>
-				</div>
-				<div class="span3 flyIn">
-					<div class="people">
-						<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-2.jpg')}}" alt="" />
-						<h3>Nishtha</h3>
-						<p>
-				
-						</p>
-					</div>
-				</div>
-				<div class="span3 flyIn">
-					<div class="people">
-						<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-3.jpg')}}"  alt="" />
-						<h3>Prachi</h3>
-						<p>
-						
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- /.container -->
-	</section>
-	<!-- end section: team -->
-	<!-- section: works -->
-	<section id="works" class="section">
-		<div class="container clearfix">
-			<h4>Stalk</h4>
-			<form action="{{ url_for('data') }}" method="post">
-				<label for="tw_id">Enter Twitter ID:</label>
-				<input style="height:200px;font-size:14pt;" type="text" name="tw_id" class="form-control" id="tw_id" placeholder="@screen_name" data-rule="minlen:1" data-msg="This cannot be empty" />
-				<div class="validation"></div>
-				<input type="button" value="Submit" class="btn btn-theme">
-			</form>
-			
-                {% block main %}{% endblock %}
-			
-			<!-- portfolio filter -->
-		</div>
-	</section>
-	<!-- spacer section -->
-	<section class="spacer bg3">
-		<div class="container">
-			<div class="row">
-				<div class="span12 aligncenter flyLeft">
-					<blockquote class="large">
-						We provide you with unbiased data, giving you the power to make decision for yourself!
-					</blockquote>
-				</div>
-				<div class="span12 aligncenter flyRight">
-					<i class="icon-rocket icon-10x"></i>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- end spacer section -->
-	<!-- section: contact -->
-	<section id="contact" class="section green">
-		<div class="container">
-			<h4>Get in Touch</h4>
-			<p>
-				We'll appreciate it if you could suggest some upgrades we can make! 
-			</p>
-			<div class="blankdivider30">
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					Our email address: xyz@gmail.com
-				</div>
-			</div>
-		</div>
-	</section>
-	<footer>
-		<div class="container">
-			<div class="row">
-				<div class="span6 offset3">
-					<ul class="social-networks">
-						<li><a href="#"><i class="icon-circled icon-bgdark icon-instagram icon-2x"></i></a></li>
-						<li><a href="#"><i class="icon-circled icon-bgdark icon-twitter icon-2x"></i></a></li>
-						<li><a href="#"><i class="icon-circled icon-bgdark icon-dribbble icon-2x"></i></a></li>
-						<li><a href="#"><i class="icon-circled icon-bgdark icon-pinterest icon-2x"></i></a></li>
-					</ul>
+					<div class="span3 flyIn">
+						<div class="people">
+							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-2.jpg')}}" alt="" />
+							<h3>Nishtha</h3>
+							<p>
 					
+							</p>
+						</div>
+					</div>
+					<div class="span3 flyIn">
+						<div class="people">
+							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-3.jpg')}}"  alt="" />
+							<h3>Prachi</h3>
+							<p>
+							
+							</p>
+						</div>
+					</div>
 				</div>
 			</div>
-		</div>
-		<!-- ./container -->
-	</footer>
-	<a href="#" class="scrollup"><i class="icon-angle-up icon-square icon-bgdark icon-2x"></i></a>
-	<script src="{{url_for('static', filename='js/jquery.js')}}"></script>
-	<script src="{{url_for('static', filename='js/jquery.scrollTo.js')}}"></script>
-	<script src="{{url_for('static', filename='js/jquery.nav.js')}}"></script>
-	<script src="{{url_for('static', filename='js/jquery.localScroll.js')}}"></script>
-	<script src="{{url_for('static', filename='js/bootstrap.js')}}"></script>
-	<script src="{{url_for('static', filename='js/jquery.prettyPhoto.js')}}"></script>
-	<script src="{{url_for('static', filename='js/isotope.js')}}"></script>
-	<script src="{{url_for('static', filename='js/jquery.flexslider.js')}}"></script>
-	<script src="{{url_for('static', filename='js/inview.js')}}"></script>
-	<script src="{{url_for('static', filename='js/animate.js')}}"></script>
-	<script src="{{url_for('static', filename='js/custom.js')}}"></script>
-	<script src="{{url_for('static', filename='contactform/contactform.js')}}"></script>
-</body>
+			<!-- /.container -->
+		</section>
+		<!-- end section: team -->
+		<!-- section: works -->
+		<section id="works" class="section">
+			<div class="container clearfix">
+				<h4>Stalk</h4>
+				<form action="{{ url_for('data') }}" method="post">
+					<label for="tw_id">Enter Twitter ID:</label>
+					<input style="height:200px;font-size:14pt;" type="text" name="tw_id" class="form-control" id="tw_id" placeholder="@screen_name" data-rule="minlen:1" data-msg="This cannot be empty" />
+					<div class="validation"></div>
+					<input type="button" value="Submit" class="btn btn-theme">
+				</form>
+				
+					{% block main %}{% endblock %}
+				
+				<!-- portfolio filter -->
+			</div>
+		</section>
+		<!-- spacer section -->
+		<section class="spacer bg3">
+			<div class="container">
+				<div class="row">
+					<div class="span12 aligncenter flyLeft">
+						<blockquote class="large">
+							We provide you with unbiased data, giving you the power to make decision for yourself!
+						</blockquote>
+					</div>
+					<div class="span12 aligncenter flyRight">
+						<i class="icon-rocket icon-10x"></i>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- end spacer section -->
+		<!-- section: contact -->
+		<section id="contact" class="section green">
+			<div class="container">
+				<h4>Get in Touch</h4>
+				<p>
+					We'll appreciate it if you could suggest some upgrades we can make! 
+				</p>
+				<div class="blankdivider30">
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						Our email address: xyz@gmail.com
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="span6 offset3">
+						<ul class="social-networks">
+							<li><a href="#"><i class="icon-circled icon-bgdark icon-instagram icon-2x"></i></a></li>
+							<li><a href="#"><i class="icon-circled icon-bgdark icon-twitter icon-2x"></i></a></li>
+							<li><a href="#"><i class="icon-circled icon-bgdark icon-dribbble icon-2x"></i></a></li>
+							<li><a href="#"><i class="icon-circled icon-bgdark icon-pinterest icon-2x"></i></a></li>
+						</ul>
+						
+					</div>
+				</div>
+			</div>
+			<!-- ./container -->
+		</footer>
+		<a href="#" class="scrollup"><i class="icon-angle-up icon-square icon-bgdark icon-2x"></i></a>
+		<script src="{{url_for('static', filename='js/jquery.js')}}"></script>
+		<script src="{{url_for('static', filename='js/jquery.scrollTo.js')}}"></script>
+		<script src="{{url_for('static', filename='js/jquery.nav.js')}}"></script>
+		<script src="{{url_for('static', filename='js/jquery.localScroll.js')}}"></script>
+		<script src="{{url_for('static', filename='js/bootstrap.js')}}"></script>
+		<script src="{{url_for('static', filename='js/jquery.prettyPhoto.js')}}"></script>
+		<script src="{{url_for('static', filename='js/isotope.js')}}"></script>
+		<script src="{{url_for('static', filename='js/jquery.flexslider.js')}}"></script>
+		<script src="{{url_for('static', filename='js/inview.js')}}"></script>
+		<script src="{{url_for('static', filename='js/animate.js')}}"></script>
+		<script src="{{url_for('static', filename='js/custom.js')}}"></script>
+		<script src="{{url_for('static', filename='contactform/contactform.js')}}"></script>
+	</body>
 
 </html>
