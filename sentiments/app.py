@@ -34,6 +34,12 @@ def data():
         publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50)
         followers = tweepy.Cursor(api.followers,id=name).items(100)
 
+        user = api.get_user(name)
+        screen_name =  user.screen_name
+        des = user.description
+        followers_c =  user.followers_count
+        status_c = user.statuses_count
+
         tweet_text = []
         languages = []
         f_loc = []
@@ -85,7 +91,7 @@ def data():
             pie_chart.add(e[0], (e[1] * (100/sum)))
         chart3 = pie_chart.render_data_uri()
 
-        return render_template("data.html", y = count_lang, z = count_loc, chart1 = chart1, chart2 = chart2, chart3 = chart3)
+        return render_template("data.html", s_name = screen_name, des = des, f_c = followers_c, s_c = status_c, y = count_lang, z = count_loc, chart1 = chart1, chart2 = chart2, chart3 = chart3)
 
 
 if __name__ == "__main__":
