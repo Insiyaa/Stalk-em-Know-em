@@ -22,7 +22,7 @@
 						<!-- Responsive navbar -->
 						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 					</a>
-						<h1 class="brand"><a href="index.html">Stalk 'em <br>Know 'em</a></h1>
+						<h1 class="brand"><a href="index.html">Stalk 'em <br>    Know 'em</a></h1>
 						<!-- navigation -->
 						<nav class="pull-right nav-collapse collapse">
 							<ul id="menu-main" class="nav">
@@ -48,7 +48,7 @@
 								<ul class="slides">
 									<li>
 										<p class="home-slide-content">
-											<strong>creative</strong> and passion
+											<strong>data</strong> and analytics
 										</p>
 									</li>
 									<li>
@@ -58,7 +58,7 @@
 									</li>
 									<li>
 										<p class="home-slide-content">
-											We loves <strong>simplicity</strong>
+											We love <strong>simplicity</strong>
 										</p>
 									</li>
 								</ul>
@@ -116,7 +116,7 @@
 					</div>
 					<div class="span3 flyIn">
 						<div class="people">
-							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-2.jpg')}}" alt="" />
+							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-4.jpg')}}" alt="" />
 							<h3>Nishtha</h3>
 							<p>
 					
@@ -125,7 +125,7 @@
 					</div>
 					<div class="span3 flyIn">
 						<div class="people">
-							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-3.jpg')}}"  alt="" />
+							<img class="team-thumb img-circle" src="{{url_for('static', filename='img/team/img-5.jpg')}}"  alt="" />
 							<h3>Prachi</h3>
 							<p>
 							
@@ -140,17 +140,20 @@
 		<!-- section: works -->
 		<section id="works" class="section">
 			<div class="container clearfix">
+				{% if get_flashed_messages() %}
+				<header>
+					<div class="alert alert-info" role="alert">
+						{{ get_flashed_messages() | join(" ") }}
+					</div>
+				</header>
+				{% endif %}
 				<h4>Stalk</h4>
 				<form action="{{ url_for('data') }}" method="post">
-					<label for="tw_id">Enter Twitter ID:</label>
-					<input style="height:200px;font-size:14pt;" type="text" name="tw_id" class="form-control" id="tw_id" placeholder="@screen_name" data-rule="minlen:1" data-msg="This cannot be empty" />
+					<label for="tw_id" style="font-size:20px;padding:5px;">Enter Twitter ID:</label>
+					<input style="height:90px;font-size:14pt;" type="text" name="tw_id" class="form-control" id="tw_id" placeholder="@screen_name" data-rule="minlen:1" data-msg="This cannot be empty" />
 					<div class="validation"></div>
-					<input type="button" value="Submit" class="btn btn-theme">
+					<input type="submit" value="Submit" class="btn btn-theme">
 				</form>
-				
-					{% block main %}{% endblock %}
-				
-				<!-- portfolio filter -->
 			</div>
 		</section>
 		<!-- spacer section -->
@@ -180,7 +183,9 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12">
-						Our email address: xyz@gmail.com
+						<p>
+							Our email address: xyz@gmail.com
+						</p>
 					</div>
 				</div>
 			</div>
@@ -200,6 +205,7 @@
 				</div>
 			</div>
 			<!-- ./container -->
+			
 		</footer>
 		<a href="#" class="scrollup"><i class="icon-angle-up icon-square icon-bgdark icon-2x"></i></a>
 		<script src="{{url_for('static', filename='js/jquery.js')}}"></script>
