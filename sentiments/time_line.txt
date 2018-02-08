@@ -5,4 +5,4 @@ TimeLine for project
 * Plot data of location and language. (done)
 * Work on some algo to analyze "text" of tweet to understand the sentiment and major tendency of person.(done)
 * Get started with some other libraries to convert this to an web application. (done)
-* Make code more robust to handle exceptions.
+* Make code more robust to handle exceptions. (kinda)
