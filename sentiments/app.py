@@ -6,36 +6,43 @@ from func import Process
 from collections import Counter
 import pygal
 
+# Start flask app
 app = Flask(__name__)
 app.secret_key = 'some secret key'
-#authentication
+
+# Set keys
 consumer_key = 'HSsfiqvQcqKKJh6aRl2YGAw7f'
 consumer_secret = 'AHCKKukN4JAcOjlHarPsAf6MdVF3C1iwZaKUPo9RBBIEDzBAUz'
 access_token = '3168794738-siQIS5uIGrEtW7n4gWNBdiqvIYjkmXBSZfcXHo9'
 access_secret = 'ZSfyIBLlQVSwxp6RxZZG4ardokkH3HAMZyESJZjlM3FzK'
 
-
+# Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 
 api = tweepy.API(auth)
 
 
-#routing
+# Index page
 @app.route('/')
 def index():
     return render_template("index.html")
 
+# Displaying data
 @app.route('/data', methods=['GET','POST'])
 def data():
+    # If requested via GET, go back to homepage
     if request.method == "GET":
         return render_template("index.html")
     else:
         try:
             name = request.form.get("tw_id")
+
+            # Getting tweets and followers list for screen name entered
             publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50)
             followers = tweepy.Cursor(api.followers,id=name).items(100)
 
+            # Getting data of the screen name entered
             user = api.get_user(name)
             screen_name =  user.screen_name
             des = user.description
@@ -52,11 +59,14 @@ def data():
             for f in followers:
                 if not f.location == '':
                     f_loc.append(f.location)
-            print(len(tweet_text))
+
+            # Cleaning and tockenizing
             process = Process()
             tweet_text = process.preprocess(tweet_text)
 
             analytics = process.analyze(tweet_text)
+
+            # Plotting using pygal
             total = analytics[0] + analytics[1] + analytics[2]
             analytics = list(map(lambda x: x * (100/total),list(analytics)))
             pie_chart = pygal.Pie()
@@ -94,7 +104,8 @@ def data():
             chart3 = pie_chart.render_data_uri()
             return render_template("data.html", s_name = screen_name, des = des, f_c = followers_c, s_c = status_c, y = count_lang, z = count_loc, chart1 = chart1, chart2 = chart2, chart3 = chart3)
         except:
-            flash("Oops! We missed somewhere. Try again later!")
+            # If missed get back to homepage
+            flash("Oops! We missed somewhere or screen name doesn't exist. Try again later!")
             return render_template("index.html")
 
         

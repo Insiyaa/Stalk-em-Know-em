@@ -31,6 +31,7 @@
 ;       mistakes. They are included as these misspelled words appear 
 ;       frequently in social media content. 
 ;
+;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 2-faced
@@ -3040,7 +3041,7 @@ nauseate
 nauseates
 nauseating
 nauseatingly
-naïve
+naï¿½ve
 nebulous
 nebulously
 needless

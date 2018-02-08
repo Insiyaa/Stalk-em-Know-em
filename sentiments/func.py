@@ -28,6 +28,7 @@ class Process():
     def preprocess(self, tweet_text):
         processed = []
         for twt in tweet_text:
+            # Remove URLs, mentions, reserved words and numbers
             p.set_options(p.OPT.URL, p.OPT.MENTION, p.OPT.RESERVED, p.OPT.NUMBER)
             twt = p.clean(twt)
             tknz = TweetTokenizer()
