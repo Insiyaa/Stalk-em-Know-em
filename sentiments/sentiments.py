@@ -1,6 +1,6 @@
-import tweepy
+import tweepy # used to access twitter API
 import json
-import pandas as pd
+import pandas as pd  #provides fast, flexible, and expressive data structures 
 from func import Process
 from collections import Counter
 
@@ -19,9 +19,9 @@ api = tweepy.API(auth)
 
 name = input("Enter the Screen Name: ")
 
-publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50)
-followers = tweepy.Cursor(api.followers,id=name).items(100)
-
+publicTweets = tweepy.Cursor(api.user_timeline, id=name).items(50) #Collecting 50 tweets from the person's timeline
+followers = tweepy.Cursor(api.followers,id=name).items(100) #Taking up 100 followers
+# Cursor handles all the pagination work
 tweet_text = []
 languages = []
 f_loc = []
