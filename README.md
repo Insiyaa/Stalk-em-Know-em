@@ -1,14 +1,16 @@
-# AMOC
+#AMOC
 A project for ACM Month Of Code
 
-STALK'EM - KNOW'EM (earlier named as sentiments)
+Stalk'em - Know'em (earlier named as sentiments)
 
-THIS APPLICATION WILL HELP YOU IN GETTING CORRECT INFORMATION ABOUT ANY PERSON FROM THEIR TWITTER ACCOUNT. IT WILL GIVE INFORMATION LIKE THE LANGUAGES USED BY THE PERSON, GLOBAL REACH, TYPES OF WORDS USED LIKE POSITIVE, NEGATIVE OR SWEARS ETC.THIS INFORMATION IS ANALYSED AND REPRESENTED IN THE FORM OF A PIE CHART FOR THE EASE OF JUDGEMENT.
+This application will help you in getting correct information about any person from their twitter account. It will give information like the languages used by the person, global reach, types of words used like positive, negative or swears etc.This information is analysed and represented in the form of a pie chart for the ease of judgement.
 
-WE USED DIFFERENT LIBRARIES LIKE JSON, PANDAS, TWEEPY, PYGAL ETC.
+We used different libraries like json, pandas, tweepy, pygal etc.
 
-FOR ANALYSING THE TYPES OF WORDS USED, A FILE CONTAINING SERIES OF BAD WORDS IS ADDED AND SIMILAR FOR POSITIVE WORDS. IN THE SIMILAR WAY THE LANGUAGES USED IS BEING ANALYSED AND THEN THE PLACES WHERE THE FOLLOWERS OF THE PERSON LIVE IS ANALYSED WHICH GIVES INFORMATION ABOUT THEIR GLOBAL REACH.
+For analysing the types of words used, a file containing series of bad words is added and similar for positive words. In the similar way the languages used is being analysed and then the places where the followers of the person live is analysed which gives information about their global reach.
 
-Use the application [here](http://insiyeah.pythonanywhere.com)
+                    Use the application [here](http://insiyeah.pythonanywhere.com)
 
-THE FUTURE SCOPE OF OUR PROJECT IS TRYING TO IMPLEMENT THE SAME TO OTHER SOCIAL MEDIAS SUCH AS FACEBOOK TO GET MORE DATA.
+The future scope of our project is trying to implement the same to other social medias such as facebook to get more data.
+
+Feel free to contribute!:)
